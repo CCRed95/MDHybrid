@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.24720.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MDHybrid", "MDHybrid\MDHybrid.csproj", "{B9574477-87B1-4772-9ADA-35707A884600}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MDHybrid.Demo", "MDHybrid.Demo\MDHybrid.Demo.csproj", "{9ACCE2AA-8341-4899-8B10-95C437C7B9FF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B9574477-87B1-4772-9ADA-35707A884600}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B9574477-87B1-4772-9ADA-35707A884600}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B9574477-87B1-4772-9ADA-35707A884600}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B9574477-87B1-4772-9ADA-35707A884600}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9ACCE2AA-8341-4899-8B10-95C437C7B9FF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9ACCE2AA-8341-4899-8B10-95C437C7B9FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9ACCE2AA-8341-4899-8B10-95C437C7B9FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9ACCE2AA-8341-4899-8B10-95C437C7B9FF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
